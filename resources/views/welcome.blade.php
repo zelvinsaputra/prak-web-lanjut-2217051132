@@ -16,7 +16,7 @@
         </style>
     </head>
     <div class="content">
-    <h1 style="color: white; text-align: center; margin-top: 20px; font-size: 36px;">
+        <h1 style="color: white; text-align: center; margin-top: 20px; font-size: 36px;">
         ZELVIN VEWI SAPUTRA - 2217051132
     </h1>
 </div>
