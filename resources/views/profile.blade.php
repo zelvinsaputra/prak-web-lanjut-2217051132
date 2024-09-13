@@ -50,10 +50,9 @@
 <body>
 
 <div class="profile-container">
-    <!-- Profile Picture Placeholder -->
+    
     <div class="profile-pic"></div>
 
-    <!-- Input Fields for Name, Class, and NPM -->
     <input type="text" class="profile-input" value="Zelvin Vewi Saputra" disabled>
     <input type="text" class="profile-input" value="A" disabled>
     <input type="text" class="profile-input" value="2217051132" disabled>
